@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sinusoida_zuzanna_lukiewska", "Laboratorium3.Zadanie5.NET\sinusoida_zuzanna_lukiewska.csproj", "{900563B6-3E4A-4EF8-B861-5FB53070B42A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900563B6-3E4A-4EF8-B861-5FB53070B42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900563B6-3E4A-4EF8-B861-5FB53070B42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900563B6-3E4A-4EF8-B861-5FB53070B42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900563B6-3E4A-4EF8-B861-5FB53070B42A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

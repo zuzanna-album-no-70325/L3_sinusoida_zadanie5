@@ -1,0 +1,14 @@
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\bin\Debug\net8.0\Laboratorium3.Zadanie5.NET.exe
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\bin\Debug\net8.0\Laboratorium3.Zadanie5.NET.deps.json
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\bin\Debug\net8.0\Laboratorium3.Zadanie5.NET.runtimeconfig.json
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\bin\Debug\net8.0\Laboratorium3.Zadanie5.NET.dll
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\bin\Debug\net8.0\Laboratorium3.Zadanie5.NET.pdb
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\obj\Debug\net8.0\Laboratorium3.Zadanie5.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\obj\Debug\net8.0\Laboratorium3.Zadanie5.NET.AssemblyInfoInputs.cache
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\obj\Debug\net8.0\Laboratorium3.Zadanie5.NET.AssemblyInfo.cs
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\obj\Debug\net8.0\Laboratorium3.Zadanie5.NET.csproj.CoreCompileInputs.cache
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\obj\Debug\net8.0\Laboratorium3.Zadanie5.NET.dll
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\obj\Debug\net8.0\refint\Laboratorium3.Zadanie5.NET.dll
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\obj\Debug\net8.0\Laboratorium3.Zadanie5.NET.pdb
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\obj\Debug\net8.0\Laboratorium3.Zadanie5.NET.genruntimeconfig.cache
+C:\Users\kijak\Desktop\Laboratorium3.Zadanie5.NET-master\Laboratorium3.Zadanie5.NET\obj\Debug\net8.0\ref\Laboratorium3.Zadanie5.NET.dll
